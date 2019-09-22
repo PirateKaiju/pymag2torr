@@ -1,4 +1,4 @@
-<h3>Simple script to convert magnet links to torrent files</h3>
+<h3>Simple script to convert magnet links to torrent files in Python 3</h3>
 
 ---
 
